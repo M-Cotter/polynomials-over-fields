@@ -1,6 +1,6 @@
 /*
-
 Fields.cpp
+
 This document contains several fields for use in the polynomial algorithms. So far,
 - Rational numbers
 - Complex rational numbers
